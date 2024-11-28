@@ -19,6 +19,8 @@
 
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/a1f7b5ab-bf2b-4734-98f3-726626528386/project/6702fea3-cb77-4552-b460-be332a0a68a0.svg)](https://wakatime.com/badge/user/a1f7b5ab-bf2b-4734-98f3-726626528386/project/6702fea3-cb77-4552-b460-be332a0a68a0)
+
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=riandanting/WD-CODE-SEATWORK)
