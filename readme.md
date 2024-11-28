@@ -6,21 +6,22 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">ARKANA</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  In the world of Shinkai, Arkana is one of the most sought after energies. It can power an entire city and give miracles to anyone with the
+  guts to touch it. Because of this, the Abyss is always trying to get their hands on this precious energy. This piqued the interest of multiversal
+  entities seeking to keep the Arkana to themselves
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=riandanting/WD-CODE-SEATWORK)
 
 ---
 
@@ -34,9 +35,6 @@
     <li>
       <a href="#overview">Overview</a>
       <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
         <li>
           <a href="#technology">Technology</a>
         </li>
@@ -54,29 +52,14 @@
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
-
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+  Arkana is a game made by hiraiaverse which aims to make a game that everyone can enjoy. This makes bonding time with relatives, friends, and partners worthwhile. The Legend of Arkana has deep lores hidden in its characters, world, and game. 
+  Arkana is a 5V5 team-based game with a variety of characters to make epic plays with. It is a free-to-play game that everyone will surely enjoy. Play now and delve into the Legend of Arkana.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +100,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| League of Legends | Used as a reference in making the site | https://www.leagueoflegends.com/en-us/ |
+| Marvel Rivals | Characters used are placeholders and reference to the characters the programmer loved. | https://www.marvelrivals.com/index.html |
+| W3Schools | Tutorials for certain codes are used here| https://www.w3schools.com/ |
+
+
